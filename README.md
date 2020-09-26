@@ -21,7 +21,7 @@ Aufzeichnungen werden hier eingetragen, sobald diese verfügbar werden.
 | Mi, 23.09.2020 | 9 - 17 Uhr | [BBB Link](https://balancer.bbb.rbg.tum.de/playback/presentation/2.0/playback.html?meetingId=ead741bb3e819da824c27c05849a22bb73c1ab9d-1600844384216) |
 | Do, 24.09.2020 | 9 - 17 Uhr | [BBB Link](https://balancer.bbb.rbg.tum.de/playback/presentation/2.0/playback.html?meetingId=ead741bb3e819da824c27c05849a22bb73c1ab9d-1600930925202) |
 | Fr, 25.09.2020 | 9 - 17 Uhr | [BBB Link](https://balancer.bbb.rbg.tum.de/playback/presentation/2.0/playback.html?meetingId=ead741bb3e819da824c27c05849a22bb73c1ab9d-1601017169831) |
-| Sa, 26.09.2020 | 9 - 17 Uhr |                                                                      [BBB Link]                                                                      |
+| Sa, 26.09.2020 | 9 - 17 Uhr | [BBB Link](https://balancer.bbb.rbg.tum.de/playback/presentation/2.0/playback.html?meetingId=ead741bb3e819da824c27c05849a22bb73c1ab9d-1601109431199) |
 
 ## Misc
 

@@ -21,7 +21,7 @@ close()
 ```
 
 # UDP 
-Hier die systemcalls, die benötigt werden, um eine TCP Verbindung zu öffnen:
+Hier die systemcalls, die benötigt werden, um eine UPD Verbindung zu öffnen:
 ## Client
 ```c
 socket()
